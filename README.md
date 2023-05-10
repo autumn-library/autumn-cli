@@ -1,4 +1,6 @@
-# autumn-cli - обертка над [cli](https://github.com/khorevaa/cli) библиотекой, которая предоставляет возможности создания консольных приложений на фреймворке [ОСень](https://github.com/autumn-library/autumn).
+# autumn-cli 
+
+Обертка над [cli](https://github.com/khorevaa/cli) библиотекой, которая предоставляет возможности создания консольных приложений на фреймворке [ОСень](https://github.com/autumn-library/autumn).
 
 ## Подключение и пример использования
 
