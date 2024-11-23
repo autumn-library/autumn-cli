@@ -277,6 +277,6 @@
 
 ## Больше примеров
 
-Описанные классы можно посмотреть в каталоге [example](https://github.com/autumn-library/autumn-cli/tree/master/example) и еще больше примеров команд в каталоге [tests](https://github.com/autumn-library/autumn-cli/tree/master/Классы)
+Описанные классы можно посмотреть в каталоге [example](https://github.com/autumn-library/autumn-cli/tree/master/example) и еще больше примеров команд в каталоге [tests](https://github.com/autumn-library/autumn-cli/tree/master/tests/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B)
 
 
