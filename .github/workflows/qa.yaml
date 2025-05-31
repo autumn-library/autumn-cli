@@ -1,0 +1,15 @@
+name: Контроль качества
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  sonar:
+    uses: autumn-library/workflows/.github/workflows/sonar.yml@main
+    with:
+      github_repository: autumn-library/autumn-cli
+      coveralls: true
+      sonarqube: false
+  
